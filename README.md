@@ -1,4 +1,4 @@
-# RAÚL CONDORI
+# ¡Hola! 👋, Soy RAÚL
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjraulynho%2Fjraulynho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://raulynho.com)](https://raulynho.com)
 [![Github](https://img.shields.io/github/followers/jraulynho?label=Follow&style=social)](https://github.com/jraulynho)
 
-👋 ¡Hola! Soy Raúl, un profesional apasionado por el análisis de datos y el desarrollo backend, con una sólida experiencia en transformar datos en decisiones estratégicas y construir sistemas backend robustos.
+Un profesional apasionado por el análisis de datos y el desarrollo backend, con una sólida experiencia en transformar datos en decisiones estratégicas y construir sistemas backend robustos.
 
 💻 Especialidades
 - 🔍 Análisis de Datos: Experto en la extracción, transformación y  limpieza de grandes volúmenes de datos para generar insights valiosos y accionables, utilizando tecnología como: Power BI y Python.
